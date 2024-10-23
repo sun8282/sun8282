@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-    <img src="![e5c96bf2d5225adc9539f30edd15de13a97ea976](https://github.com/user-attachments/assets/dc493242-c62a-4526-8e76-844ea0bf4996)">
+    <img src="https://github.com/user-attachments/assets/dc493242-c62a-4526-8e76-844ea0bf4996">
 </p>
 <!--
 **sun8282/sun8282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
