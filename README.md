@@ -9,8 +9,14 @@
 ![sun8282's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun8282&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun8282&layout=compact)
 
+## History 🕰️
+<ul>
+    <li>서울디지텍고등학교 | 2022.03 ~ 2024.12</li>
+    <li>주식회사 비트리 | 2023.11 ~ 2024.11</li>
+    <li>(주)엠엘소프트 | 2025.02 ~ ing</li>
+</ul>
 
-    
+## My Skills ⚒️
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
