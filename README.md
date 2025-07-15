@@ -1,14 +1,11 @@
 ## Hi there 👋
 
 
-
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/dc493242-c62a-4526-8e76-844ea0bf4996">
-</p>
-
 ![sun8282's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun8282&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun8282&layout=compact)
-
+<div align="center">
+<a href="https://naverstopdevelopment.tistory.com/"><img alt="tistory" src ="https://img.shields.io/badge/tistory-000000.svg?&style=flat-square&logo=tistory&logoColor=white"/></a>
+</div>
 ## History 🕰️
 <ul>
     <li>서울디지텍고등학교 | 2022.03 ~ 2024.12</li>
