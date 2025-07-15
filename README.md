@@ -6,6 +6,7 @@
 <div align="center">
 <a href="https://naverstopdevelopment.tistory.com/"><img alt="tistory" src ="https://img.shields.io/badge/tistory-000000.svg?&style=flat-square&logo=tistory&logoColor=white"/></a>
 </div>
+
 ## History 🕰️
 <ul>
     <li>서울디지텍고등학교 | 2022.03 ~ 2024.12</li>
